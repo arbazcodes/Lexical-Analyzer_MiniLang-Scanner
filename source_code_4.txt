@@ -1,0 +1,4 @@
+a = 10
+b = false
+// This is a comment
+print a + b
